@@ -1,0 +1,12 @@
+C:\Users\pozoj\source\repos\ACMEncuesta\ACMEncuenta.ddd.Dominio\bin\Debug\net5.0\ACMEncuenta.ddd.Dominio.deps.json
+C:\Users\pozoj\source\repos\ACMEncuesta\ACMEncuenta.ddd.Dominio\bin\Debug\net5.0\ACMEncuenta.ddd.Dominio.dll
+C:\Users\pozoj\source\repos\ACMEncuesta\ACMEncuenta.ddd.Dominio\bin\Debug\net5.0\ref\ACMEncuenta.ddd.Dominio.dll
+C:\Users\pozoj\source\repos\ACMEncuesta\ACMEncuenta.ddd.Dominio\bin\Debug\net5.0\ACMEncuenta.ddd.Dominio.pdb
+C:\Users\pozoj\source\repos\ACMEncuesta\ACMEncuenta.ddd.Dominio\obj\Debug\net5.0\ACMEncuenta.ddd.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pozoj\source\repos\ACMEncuesta\ACMEncuenta.ddd.Dominio\obj\Debug\net5.0\ACMEncuenta.ddd.Dominio.AssemblyInfoInputs.cache
+C:\Users\pozoj\source\repos\ACMEncuesta\ACMEncuenta.ddd.Dominio\obj\Debug\net5.0\ACMEncuenta.ddd.Dominio.AssemblyInfo.cs
+C:\Users\pozoj\source\repos\ACMEncuesta\ACMEncuenta.ddd.Dominio\obj\Debug\net5.0\ACMEncuenta.ddd.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\pozoj\source\repos\ACMEncuesta\ACMEncuenta.ddd.Dominio\obj\Debug\net5.0\ACMEncuenta.ddd.Dominio.dll
+C:\Users\pozoj\source\repos\ACMEncuesta\ACMEncuenta.ddd.Dominio\obj\Debug\net5.0\ref\ACMEncuenta.ddd.Dominio.dll
+C:\Users\pozoj\source\repos\ACMEncuesta\ACMEncuenta.ddd.Dominio\obj\Debug\net5.0\ACMEncuenta.ddd.Dominio.pdb
+C:\Users\pozoj\source\repos\ACMEncuesta\ACMEncuenta.ddd.Dominio\obj\Debug\net5.0\ACMEncuenta.ddd.Dominio.csproj.AssemblyReference.cache
